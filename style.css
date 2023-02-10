@@ -1,0 +1,18 @@
+#app {
+    text-align: center;
+    margin: 75px auto;
+}
+
+.executed {
+    text-decoration: line-through;
+}
+
+#todo-list li.done {
+    text-decoration: line-through;
+    color: darkgrey;
+}
+
+button.delete {
+    float: right;
+    margin: 10px;
+}
